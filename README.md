@@ -27,7 +27,7 @@ My name is **Maria** and I'm passionate frontend developer
   </a>
 </p>
 
---
+---
 
 ### My different stats:
 
