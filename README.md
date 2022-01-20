@@ -27,3 +27,8 @@ My name is **Maria** and I'm passionate frontend developer
   </a>
 </p>
 
+--
+
+### My different stats:
+
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=balakleeva&card&colormode=dark_mode" />
