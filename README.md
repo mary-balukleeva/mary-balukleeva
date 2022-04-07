@@ -7,6 +7,7 @@ My name is **Maria** and I'm passionate frontend developer
 - React and it's ecosystem expert
 - Experienced mentor
 - Master of Sports in acrobatics
+- something new...
 
 ---
 
